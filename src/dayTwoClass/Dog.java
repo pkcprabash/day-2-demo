@@ -14,7 +14,7 @@ public class Dog extends Animal {
 
 	@Override
 	public void talk() {
-		System.out.print("Dog - woof woof!!");
+		System.out.print("Dog - woof woof woof!!!");
 	}
 
 }
